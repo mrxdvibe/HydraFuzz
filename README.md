@@ -9,6 +9,6 @@ High-performance, multi-threaded directory & URL fuzzing engine built for web re
 
 ## Installation
 ```bash
-git clone [https://github.com/mrxdvibe/hydrafuzz.git](https://github.com/mrxdvibe/hydrafuzz.git)
+git clone https://github.com/mrxdvibe/hydrafuzz.git
 cd hydrafuzz
 pip install -r requirements.txt
